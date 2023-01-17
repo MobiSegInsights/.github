@@ -4,6 +4,7 @@ Funded by the Swedish Research Council (No. 2022-06215), this project aims to us
 ### Significance and scientific novelty
 - Profound insights into how experienced social segregation distributes in global regions at an unprecedentedly high spatiotemporal resolution, a big step forward beyond our understanding of residential segregation.
 - Innovative explanations of social segregation by built environment, mobility behaviours, and housing, which can be used to make effective place-based policies and transport planning to mitigate segregation and inequalities in today’s urban systems.
+
 Social segregation is a crucial issue for our societies, drawing increasing attention due to the rising level of inequalities in modern cities. Not only the project has the potential to dramatically change how we understand social segregation in cities from a scientific standpoint. Also, it could help develop novel solution to mitigate it through effective planning for sustainable and inclusive mobility systems.
 
 ### Team
