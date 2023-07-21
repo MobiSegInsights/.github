@@ -12,3 +12,5 @@ This three-year project will be managed and implemented by Dr. Yuan Liao with th
 - [Dr. Sonia Yeh](https://www.chalmers.se/en/staff/Pages/sonia-yeh.aspx), Department of Space, Earth and Environment, Chalmers University of Technology, Sweden
 - [Dr. Jorge Gil](https://www.chalmers.se/en/staff/Pages/jorgegi.aspx), Department of Architecture and Civil Engineering, Chalmers University of Technology, Sweden
 - [Dr. Laura Alessandretti](https://laura.alessandretti.com/), Department of Applied Mathematics and Computer Science, Technical University of Denmark, Denmark
+- [Dr. Rafael H. M. Pereira](https://www.urbandemographics.org/about/), Institute for Applied Economic Research (Ipea) - Brazil, Department of Urban, Regional and Environmental studies and policies (DIRUR), Brazil
+
