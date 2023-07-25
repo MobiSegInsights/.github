@@ -8,7 +8,7 @@ Funded by the Swedish Research Council (No. 2022-06215), this project aims to us
 Social segregation is a crucial issue for our societies, drawing increasing attention due to the rising level of inequalities in modern cities. Not only the project has the potential to dramatically change how we understand social segregation in cities from a scientific standpoint. Also, it could help develop novel solution to mitigate it through effective planning for sustainable and inclusive mobility systems.
 
 ### Team
-This three-year project will be managed and implemented by Dr. Yuan Liao with the administrative organization, Chalmers University of Technology, Sweden, and the host organization Technical University of Denmark, Denmark. Dr. Yuan Liao will be collaborating with the three mentors: 
+This three-year project will be managed and implemented by Dr. Yuan Liao with the administrative organization, Chalmers University of Technology, Sweden, and the host organization Technical University of Denmark, Denmark. Dr. Yuan Liao will be collaborating with the four mentors: 
 - [Dr. Sonia Yeh](https://www.chalmers.se/en/staff/Pages/sonia-yeh.aspx), Department of Space, Earth and Environment, Chalmers University of Technology, Sweden
 - [Dr. Jorge Gil](https://www.chalmers.se/en/staff/Pages/jorgegi.aspx), Department of Architecture and Civil Engineering, Chalmers University of Technology, Sweden
 - [Dr. Laura Alessandretti](https://laura.alessandretti.com/), Department of Applied Mathematics and Computer Science, Technical University of Denmark, Denmark
